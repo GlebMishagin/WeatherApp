@@ -1,0 +1,1 @@
+ /Users/glebandioleviosa/Downloads/weather-main/.dart_tool/flutter_build/0f7acead1c4c5114dbcfed7d60af032c/native_assets.yaml: 
