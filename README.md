@@ -1,1 +1,1 @@
-# for-itgro
+Мобильное приложение погоды в стиле Glassmorphism
